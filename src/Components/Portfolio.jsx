@@ -31,28 +31,42 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "A basic AI powered Chatbot which drafts emails 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An Open AI API Key powered chatbot which can draft cold emails based on the information of LinkedIn Profile.",
+    url: "https://colab.research.google.com/drive/18zxBIA6DVkk_vQzNB0m-GXC2A9_qni4y?usp=sharing",
   },
   {
-    title: "Web Development for Beginners",
+    title: "A Blog on Cloud Computing with respect to Gen AI-A Fresh Perspective",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Published a blog on Cloud Computing with respect to Gen AI, which will provide a new/fresh perspective.",
+    url: "https://ibrahim9989.blogspot.com/2023/07/introduction-to-cloud-computing.html",
   },
   {
-    title: "My Resume Site",
+    title: "A Blog on Microservices Architecture",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Published a blog on the Complex Microservice Architecture Complex  in such a way a layman can also understand.",
+    url: "https://ibrahim9989.blogspot.com/2023/07/introduction-to-microservice.html",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Simple Duplicacy Detection System (CLI)",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Repo of a Simple Duplicacy Detection System using Python Pandas-CLI.",
+    url: "https://github.com/Ibrhimovic9989/Duplicacy-detection-python",
+  },
+  
+  {
+    title: "Simple Order Processing System (CLI)",
+    description:
+      "Repo of a Simple Order Processing System using C-CLI.",
+    url: "https://github.com/Ibrhimovic9989/order-processing",
+  },
+  
+  {
+    title: "MY RESUME",
+    description:
+      "Link to MY Resume",
+    url: "https://docs.google.com/document/d/19_Pgv2AzpX5dVZwm5l-WfvV2paoRnBgaeuwrF_Wkr0s/edit?usp=sharing",
   },
 ];
 
